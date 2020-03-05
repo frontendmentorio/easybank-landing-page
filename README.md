@@ -29,7 +29,7 @@ Your task is to build out the project to the designs inside the `/design` folder
 
 The designs are in JPG static format. This will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. This should help train your eye to perceive differences in spacings and sizes.
 
-If you would like the Sketch file in order to inspect the design in more detail it is available to buy on the challenge page.
+If you would like the Sketch file in order to inspect the design in more detail it is available to buy from the challenge page on the platform.
 
 You will find all the required assets in the `/images` folder. The assets are already optimized.
 
